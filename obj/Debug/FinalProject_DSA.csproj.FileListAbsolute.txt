@@ -1,0 +1,52 @@
+D:\SHAINNA'S FILES\PROGRAMMING FOLDER\FinalProject_DSA\bin\Debug\FinalProject_DSA.exe.config
+D:\SHAINNA'S FILES\PROGRAMMING FOLDER\FinalProject_DSA\bin\Debug\FinalProject_DSA.exe
+D:\SHAINNA'S FILES\PROGRAMMING FOLDER\FinalProject_DSA\bin\Debug\FinalProject_DSA.pdb
+D:\SHAINNA'S FILES\PROGRAMMING FOLDER\FinalProject_DSA\obj\Debug\FinalProject_DSA.csproj.AssemblyReference.cache
+D:\SHAINNA'S FILES\PROGRAMMING FOLDER\FinalProject_DSA\obj\Debug\FinalProject_DSA.Form_Main.resources
+D:\SHAINNA'S FILES\PROGRAMMING FOLDER\FinalProject_DSA\obj\Debug\FinalProject_DSA.Properties.Resources.resources
+D:\SHAINNA'S FILES\PROGRAMMING FOLDER\FinalProject_DSA\obj\Debug\FinalProject_DSA.csproj.GenerateResource.cache
+D:\SHAINNA'S FILES\PROGRAMMING FOLDER\FinalProject_DSA\obj\Debug\FinalProject_DSA.csproj.CoreCompileInputs.cache
+D:\SHAINNA'S FILES\PROGRAMMING FOLDER\FinalProject_DSA\obj\Debug\FinalProject_DSA.exe
+D:\SHAINNA'S FILES\PROGRAMMING FOLDER\FinalProject_DSA\obj\Debug\FinalProject_DSA.pdb
+D:\SHAINNA'S FILES\PROGRAMMING FOLDER\FinalProject_DSA\obj\Debug\FinalProject_DSA.Form_Stacks.resources
+C:\Users\Ira Clariz\OneDrive\Data and Algo\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\bin\Debug\FinalProject_DSA.exe.config
+C:\Users\Ira Clariz\OneDrive\Data and Algo\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\bin\Debug\FinalProject_DSA.exe
+C:\Users\Ira Clariz\OneDrive\Data and Algo\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\bin\Debug\FinalProject_DSA.pdb
+C:\Users\Ira Clariz\OneDrive\Data and Algo\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\obj\Debug\FinalProject_DSA.csproj.AssemblyReference.cache
+C:\Users\Ira Clariz\OneDrive\Data and Algo\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\obj\Debug\FinalProject_DSA.Recursion.resources
+C:\Users\Ira Clariz\OneDrive\Data and Algo\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\obj\Debug\FinalProject_DSA.Form_Main.resources
+C:\Users\Ira Clariz\OneDrive\Data and Algo\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\obj\Debug\FinalProject_DSA.Form_Stacks.resources
+C:\Users\Ira Clariz\OneDrive\Data and Algo\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\obj\Debug\FinalProject_DSA.Properties.Resources.resources
+C:\Users\Ira Clariz\OneDrive\Data and Algo\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\obj\Debug\FinalProject_DSA.csproj.GenerateResource.cache
+C:\Users\Ira Clariz\OneDrive\Data and Algo\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\obj\Debug\FinalProject_DSA.csproj.CoreCompileInputs.cache
+C:\Users\Ira Clariz\OneDrive\Data and Algo\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\obj\Debug\FinalProject_DSA.exe
+C:\Users\Ira Clariz\OneDrive\Data and Algo\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\obj\Debug\FinalProject_DSA.pdb
+C:\Users\Ira Clariz\OneDrive\Data and Algo\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\obj\Debug\FinalProject_DSA.Queues.resources
+C:\Users\admin\Downloads\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\bin\Debug\FinalProject_DSA.exe.config
+C:\Users\admin\Downloads\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\bin\Debug\FinalProject_DSA.exe
+C:\Users\admin\Downloads\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\bin\Debug\FinalProject_DSA.pdb
+C:\Users\admin\Downloads\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\obj\Debug\FinalProject_DSA.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\obj\Debug\FinalProject_DSA.Queues.resources
+C:\Users\admin\Downloads\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\obj\Debug\FinalProject_DSA.Recursion.resources
+C:\Users\admin\Downloads\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\obj\Debug\FinalProject_DSA.Form_Main.resources
+C:\Users\admin\Downloads\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\obj\Debug\FinalProject_DSA.Form_Stacks.resources
+C:\Users\admin\Downloads\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\obj\Debug\FinalProject_DSA.Properties.Resources.resources
+C:\Users\admin\Downloads\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\obj\Debug\FinalProject_DSA.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\obj\Debug\FinalProject_DSA.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\obj\Debug\FinalProject_DSA.exe
+C:\Users\admin\Downloads\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\obj\Debug\FinalProject_DSA.pdb
+C:\Users\admin\Downloads\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA-20220227T030756Z-001\FinalProject_DSA\obj\Debug\FinalProject_DSA.SelectionSort.resources
+C:\Users\Ira Clariz\Downloads\FinalProject_DSA-20220227T133154Z-001 - Final\FinalProject_DSA\bin\Debug\FinalProject_DSA.exe.config
+C:\Users\Ira Clariz\Downloads\FinalProject_DSA-20220227T133154Z-001 - Final\FinalProject_DSA\bin\Debug\FinalProject_DSA.exe
+C:\Users\Ira Clariz\Downloads\FinalProject_DSA-20220227T133154Z-001 - Final\FinalProject_DSA\bin\Debug\FinalProject_DSA.pdb
+C:\Users\Ira Clariz\Downloads\FinalProject_DSA-20220227T133154Z-001 - Final\FinalProject_DSA\obj\Debug\FinalProject_DSA.csproj.AssemblyReference.cache
+C:\Users\Ira Clariz\Downloads\FinalProject_DSA-20220227T133154Z-001 - Final\FinalProject_DSA\obj\Debug\FinalProject_DSA.SelectionSort.resources
+C:\Users\Ira Clariz\Downloads\FinalProject_DSA-20220227T133154Z-001 - Final\FinalProject_DSA\obj\Debug\FinalProject_DSA.Queues.resources
+C:\Users\Ira Clariz\Downloads\FinalProject_DSA-20220227T133154Z-001 - Final\FinalProject_DSA\obj\Debug\FinalProject_DSA.Recursion.resources
+C:\Users\Ira Clariz\Downloads\FinalProject_DSA-20220227T133154Z-001 - Final\FinalProject_DSA\obj\Debug\FinalProject_DSA.Form_Main.resources
+C:\Users\Ira Clariz\Downloads\FinalProject_DSA-20220227T133154Z-001 - Final\FinalProject_DSA\obj\Debug\FinalProject_DSA.Form_Stacks.resources
+C:\Users\Ira Clariz\Downloads\FinalProject_DSA-20220227T133154Z-001 - Final\FinalProject_DSA\obj\Debug\FinalProject_DSA.Properties.Resources.resources
+C:\Users\Ira Clariz\Downloads\FinalProject_DSA-20220227T133154Z-001 - Final\FinalProject_DSA\obj\Debug\FinalProject_DSA.csproj.GenerateResource.cache
+C:\Users\Ira Clariz\Downloads\FinalProject_DSA-20220227T133154Z-001 - Final\FinalProject_DSA\obj\Debug\FinalProject_DSA.csproj.CoreCompileInputs.cache
+C:\Users\Ira Clariz\Downloads\FinalProject_DSA-20220227T133154Z-001 - Final\FinalProject_DSA\obj\Debug\FinalProject_DSA.exe
+C:\Users\Ira Clariz\Downloads\FinalProject_DSA-20220227T133154Z-001 - Final\FinalProject_DSA\obj\Debug\FinalProject_DSA.pdb
