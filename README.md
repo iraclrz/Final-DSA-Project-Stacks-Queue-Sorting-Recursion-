@@ -1,5 +1,2 @@
 # Final-DSA-Project-Stacks-Queue-Sorting-Recursion-
-In this program, we will display how Stacks, Queues, Sorting, and Recursion works. 
-For the Stacks and Queues, we will use the parking garage system where the user will enter the plate numbers of cars.
-For Sorting, the user will enter numbers and the program will automaticall sort the numbers from the least value to the greatest value.
-For Recursion, the user will enter a number and the program will get its factorial and its fibonacci sequence.
+This project in C# aims to demonstrate key computer science concepts including Stacks and Queues via a parking garage simulation, Sorting through automatic sorting of user-entered numbers, and Recursion by computing factorial and Fibonacci sequences based on user input. Through practical implementations, users will gain insight into fundamental data structures and algorithms, enhancing their understanding of these core concepts.
